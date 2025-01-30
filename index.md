@@ -11,4 +11,4 @@ Hi! I'm Emily, a PhD student at Columbia University in the department of Ecology
 
 
 ## Publications
-Singer, M. S., Anderson, R. M., Hennessy, A. B., **Leggat, E.**, Prasad, A., Rathe, S., Silverstone, B., & Wyatt, T. J. (2022). Predators and Caterpillar Diet Breadth: Appraising the Enemy-Free Space Hypothesis. In R. J. Marquis & S. Koptur (Eds.), Caterpillars in the Middle: Tritrophic Interactions in a Changing World (pp. 273–296). Springer International Publishing. [https://doi.org/10.1007/978-3-030-86688-4_9]
+Singer, M. S., Anderson, R. M., Hennessy, A. B., **Leggat, E.**, Prasad, A., Rathe, S., Silverstone, B., & Wyatt, T. J. (2022). Predators and Caterpillar Diet Breadth: Appraising the Enemy-Free Space Hypothesis. In R. J. Marquis & S. Koptur (Eds.), Caterpillars in the Middle: Tritrophic Interactions in a Changing World (pp. 273–296). Springer International Publishing. [DOI](https://doi.org/10.1007/978-3-030-86688-4_9)
