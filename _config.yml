@@ -1,11 +1,11 @@
-### your site title here
+### Emily Leggat
 
-title: Your Name
-description: subtitle | affiliations | motto
+title: Emily Leggat
+description: PhD student| she/her
 
-baseurl: /gradfolio #name of GitHub repository
+baseurl: / #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: #
+email: el3258@columbia.edu#
 
 # Pagination
 paginate: 4
@@ -13,15 +13,15 @@ permalink: /blog/:year/:title/
 paginate_path: /blog/page:num/
 
 # Social media links in footer
-twitter: "#"
-linkedin: "#"
-stackoverflow: "#"
-github: "#"
-researchgate: "#"
-orcid: "#"
-quora: "#"
-instagram: "#"
-facebook: "#"
+#twitter: "#"
+linkedin: "emilyleggat"
+#stackoverflow: "#"
+github: "eleggat"
+researchgate: "https://www.researchgate.net/profile/Emily-Leggat"
+orcid: "https://orcid.org/0009-0008-1592-4587"
+#quora: "#"
+#instagram: "#"
+#facebook: "#"
 
 
 # Markdown
