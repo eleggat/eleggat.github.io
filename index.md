@@ -7,7 +7,7 @@ profile:
 published: true
 ---
 
-Hi! I'm Emily, a PhD student at Columbia University in the department of Ecology, Evolution, and Environmental Biology. I study insect diversity in New York City, how it has been shaped by the history of city development, and the consequences that has on the urban environment. Though my research focuses on insects, I am broadly interested in the impacts of human activties on biodiversity.
+Hi! I'm Emily, a PhD student at Columbia University in the department of Ecology, Evolution, and Environmental Biology. I study insect diversity in New York City, how it has been shaped by the history of city development, and the consequences that has on the urban environment. Though my research focuses on insects, I am broadly interested in the impacts of human activities on biodiversity.
 
 
 ## Publications
