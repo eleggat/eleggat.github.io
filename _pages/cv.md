@@ -1,7 +1,7 @@
 ---
 title:
-layout: default
-permalink: 
+layout: post
+permalink: /cv/
 published: true
 ---
 # CV
