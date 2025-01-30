@@ -1,11 +1,11 @@
 ### Emily Leggat
 
 title: Emily Leggat
-description: PhD student| she/her
+description: PhD student | she/her
 
 baseurl: / #name of GitHub repository
 url: "" #custom url to be used instead of GitHub repository
-email: el3258@columbia.edu#
+email: el3258@columbia.edu
 
 # Pagination
 paginate: 4
