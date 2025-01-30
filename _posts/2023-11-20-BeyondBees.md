@@ -24,7 +24,7 @@ Maybe the day will come when people will proudly slap “Save the Cockroaches!�
 
 Even in the popularity contest of conservation funding, the most beloved insects are still falling short. Efforts to conserve monarch butterflies in North America have been helped significantly by public interest in the species. However, real support from the United States government, both at the federal and local levels, has been lacking.[^6] If one of the most recognizable insect species in America is struggling to get help, what hope is there for the ugly insects?
 
-A greater issue at play than just the likeability of many insects is the lack of research about them. Insects are the most diverse group of animals on the planet, making up almost half of all known animal species.[^7] Yet for a variety of reasons—lack of funding, public interest, and government interest, among others—insects remain disproportionately understudied.[^8][^9] How can we care about their preservation if we don’t even know what they do? And even further, if we don’t even know they exist?
+A greater issue at play than just the likeability of many insects is the lack of research about them. Insects are the most diverse group of animals on the planet, making up almost half of all known animal species.[^7] Yet for a variety of reasons—lack of funding, public interest, and government interest, among others—insects remain disproportionately understudied.[^8] [^9] How can we care about their preservation if we don’t even know what they do? And even further, if we don’t even know they exist?
 
 The importance of bees and their popularity have both contributed to the exorbitant amount of research and funding they receive. These are by no means wasted, but perhaps if other insects garnered similar levels of attention, they would be similarly loved. Public support for insects and all the ways they keep our world running is one of the best things we can do to save them.
 
@@ -47,4 +47,6 @@ Instead of letting our affection and concern for insects stop at bees, use them 
 
 [^7]:Ritchie, H. How many species are there? Our World in Data https://ourworldindata.org/how-many-species-are-there (2022).
 
-[^8]:Titley, M. A., Snaddon, J. L. & Turner, E. C. Scientific research on animal biodiversity is systematically biased towards ve
+[^8]:Titley, M. A., Snaddon, J. L. & Turner, E. C. Scientific research on animal biodiversity is systematically biased towards vertebrates and temperate regions. PLOS ONE 12, e0189577 (2017).
+
+[^9]:Cardoso, P., Erwin, T. L., Borges, P. A. V. & New, T. R. The seven impediments in invertebrate conservation and how to overcome them. Biol. Conserv. 144, 2647–2655 (2011).
