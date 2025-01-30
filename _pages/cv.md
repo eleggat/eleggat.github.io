@@ -1,9 +1,10 @@
 ---
-title: CV
+title:
 layout: default
 permalink: /cv/
 published: true
 ---
+# CV
 
 <!--  {% include base_path %}
 
