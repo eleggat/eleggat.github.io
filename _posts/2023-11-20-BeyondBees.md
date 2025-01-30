@@ -1,8 +1,7 @@
 ---
+layout: post
 title: 'Beyond Bees'
 date: 2023-11-20
-author: Emily Leggat
-permalink: /posts/2023/11/beyondbees/
 tags:
   - sci comm
 ---
